@@ -1,5 +1,5 @@
 #linux 
-
+https://gist.github.com/ryin/3106801
 ### 下載git
 ```bash=
 

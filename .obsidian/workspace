@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "4873a8c330328256",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md_file/下載 tmux 的指令原始紀錄_有成功.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
