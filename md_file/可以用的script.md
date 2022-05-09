@@ -1,3 +1,5 @@
+#linux_script 
+
 批次命名檔案
 把DSC刪掉加上nebula
 原檔名範例 `DSC_2637.jpg`
