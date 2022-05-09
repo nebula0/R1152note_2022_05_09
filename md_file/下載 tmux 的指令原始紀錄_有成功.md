@@ -3,8 +3,8 @@
 ### 下載git
 ```bash=
 
-wget http://ftp.ntu.edu.tw/software/scm/git/git-2.9.4.tar.gz`
-```console
+wget http://ftp.ntu.edu.tw/software/scm/git/git-2.9.4.tar.gz
+
 tar -zxf git-2.9.4.tar.gz
 cd git-2.9.4
 make configure
@@ -43,7 +43,7 @@ cd libevent-2.1.11-stable
 ./configure --prefix=$HOME
 make
 
-mahe install
+make install
 
 ```
 成功

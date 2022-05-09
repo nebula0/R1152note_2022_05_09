@@ -4,19 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cc1d415a143e67b7",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "59c7ebe37bab3903",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "md_file/下載 tmux 的指令整理.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -83,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "md_file/下載 tmux 的指令整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "md_file/下載 tmux 的指令整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "md_file/下載 tmux 的指令整理.md"
+              }
             }
           }
         ]
@@ -130,9 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc1d415a143e67b7",
+  "active": "59c7ebe37bab3903",
   "lastOpenFiles": [
-    "md_file/Untitled.md",
+    "md_file/下載 tmux 的指令整理.md",
+    "md_file/下載 tmux 的指令原始紀錄_有成功.md",
     "md_file/meeting_05_05_2022.md",
     "md_file/README.md",
     "md_file/R dataframe indexing.md",
@@ -140,7 +140,6 @@
     "attachment/[Pasted image 20220316175019.png.md",
     "md_file/可以用的script.md",
     "md_file/2022_05_09 log.md",
-    "md_file/淺談awk.md",
-    "md_file/其他名詞解釋.md"
+    "md_file/淺談awk.md"
   ]
 }
