@@ -1,0 +1,22 @@
+{
+  "legacyEditor": true,
+  "livePreview": false,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "md_file",
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,22 @@
+# 05_05_2022
+
+- 這周上課的東西
+- 對名子
+    - 到 SRX 頁面看
+- 暑假工時
+- 關於實驗較詳細或可查的關鍵字
+    - 預實驗 先知道氮反應是不是對translation整體有影響(用阿拉伯芥) 如果沒差就不會往下做
+        - [方法](https://www.thermofisher.com/order/catalog/product/C10456)
+    - 時間點、跟轉錄組(我們弄的控制組 可能正常氮之類的？)比較、riboseq
+    - 弄突變株看對氮訊息有什麼影響
+- [read -r](https://hackmd.io/s7VN6l-STVK4fcaKXelu9Q?view#while)?
+- 大專生計畫 明年二月交申請書
+- 在美國唸PhD不用錢？！
+- GRE 跟托福之類的還有其他申請資料 大三下 要弄出來（如果大學畢業直接出去）
+Bisulfite-Seq　看　ＥＰＩＧＥＮＯＭＩＣ的技術
+https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP075013&o=acc_s%3Aa
+
+- https://bbsp.unc.edu/prospective-students/financial-support/
+- [Financial Support for PhD Candidates](https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/phd-program/life-vilcek-institute-graduate-biomedical-sciences/benefits/financial-support#:~:text=PhD%20program%20courses.-,Stipend,each%20month%2C%20starting%20September%201.)
+- 台灣的好的公司 [正瀚](https://www.chbio.com/)
+<!-- - `awk -v name=1 'BEGIN{printf "Name = %d", name name}'`, `awk -v name=1 'BEGIN{printf "Name = %d\n", name name}'`好像一樣? %d 數字 %字串 \n換行? -->

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "6111fe86d82d2959",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1d415a143e67b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md_file/Git_GitHub_note.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e32b56a4006d3d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc680b3470c76218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91def14b2196398d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a1f8be0bb53735c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2c6db30e3b608615",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ec05058f2191fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1943cdebd02244fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "09284f1e349b15bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md_file/Git_GitHub_note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f329adcc2d69e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "md_file/Git_GitHub_note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bd303b11299f6ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c844f46e3427d7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md_file/Git_GitHub_note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc1d415a143e67b7",
+  "lastOpenFiles": [
+    "md_file/Git_GitHub_note.md",
+    "md_file/下載 tmux 的指令原始紀錄_有成功.md",
+    "md_file/我的 rename.tsv run.log.md",
+    "md_file/2022_05_09 log.md",
+    "md_file/Linux指令與相關的東西.md",
+    "md_file/老師 run.log.md",
+    "md_file/sub.md",
+    "md_file/Click-iT™ Plus OPP Alexa Fluor™ 488 Protein Synthesis Assay Kit.md",
+    "md_file/puromycin.md",
+    "md_file/06_05_2022 大meeting.md"
+  ]
+}
