@@ -11,8 +11,11 @@
             "id": "4873a8c330328256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "md_file/老師 run.log.md",
+                "mode": "source"
+              }
             }
           },
           {
@@ -93,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "md_file/老師 run.log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "md_file/老師 run.log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "md_file/老師 run.log.md"
+              }
             }
           }
         ]
@@ -142,8 +149,8 @@
   },
   "active": "4873a8c330328256",
   "lastOpenFiles": [
-    "md_file/Untitled.md",
     "md_file/老師 run.log.md",
+    "md_file/Untitled.md",
     "md_file/graph theory.md",
     "md_file/下載 tmux 的指令原始紀錄_有成功.md",
     "md_file/下載 tmux 的指令整理.md",
