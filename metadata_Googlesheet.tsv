@@ -1,0 +1,87 @@
+SRA	Run	Genotype	Short name	PAIRED ENDED	Short name	Unique ID
+DRP003836	DRR106422	wild type	root-water-rep1	TRUE	Root-Boric-Controlwater	DRP003836.Root-Boric-Controlwater.DRR106422
+DRP003836	DRR106423	wild type	root-water-rep2	TRUE	Root-Boric-Controlwater	DRP003836.Root-Boric-Controlwater.DRR106423
+DRP003836	DRR106424	wild type	root-water-rep3	TRUE	Root-Boric-Controlwater	DRP003836.Root-Boric-Controlwater.DRR106424
+DRP003836	DRR106425	wild type	root-0.2 mMazomethine-rep1	TRUE	Root-Boric-Controlvehicle	DRP003836.Root-Boric-Controlvehicle.DRR106425
+DRP003836	DRR106426	wild type	root-0.2 mMazomethine-rep2	TRUE	Root-Boric-Controlvehicle	DRP003836.Root-Boric-Controlvehicle.DRR106426
+DRP003836	DRR106427	wild type	root-0.2 mMazomethine-rep3	TRUE	Root-Boric-Controlvehicle	DRP003836.Root-Boric-Controlvehicle.DRR106427
+DRP003836	DRR106428	wild type	root-0.2 mM+1 mM boric acid-rep1	TRUE	Root-Boric-Low	DRP003836.Root-Boric-Low.DRR106428
+DRP003836	DRR106429	wild type	root-0.2 mM+1 mM boric acid-rep2	TRUE	Root-Boric-Low	DRP003836.Root-Boric-Low.DRR106429
+DRP003836	DRR106430	wild type	root-0.2 mM+1 mM boric acid-rep3	TRUE	Root-Boric-Low	DRP003836.Root-Boric-Low.DRR106430
+SRP007763	SRR331219	wild type	root-control-rep1	FALSE	Root-Fe-Control	SRP007763.Root-Fe-Control.SRR331219
+SRP007763	SRR331224	wild type	root-control-rep2	FALSE	Root-Fe-Control	SRP007763.Root-Fe-Control.SRR331224
+SRP007763	SRR331227	wild type	root-control-rep3	FALSE	Root-Fe-Control	SRP007763.Root-Fe-Control.SRR331227
+SRP007763	SRR331228	wild type	iron	FALSE	Root-Fe-Low	SRP007763.Root-Fe-Low.SRR331228
+SRP007763	SRR331229	wild type	phosphate	FALSE	Root-P-Low	SRP007763.Root-P-Low.SRR331229
+SRP018404	SRR671946	wild type	2 hours of 5 mM KCl	FALSE	Root-NO3-Low	SRP018404.Root-NO3-Low.SRR671946
+SRP018404	SRR671947	wild type	2 hours of 5 mM KCl	FALSE	Root-NO3-Low	SRP018404.Root-NO3-Low.SRR671947
+SRP018404	SRR671948	wild type	2 hours of 5 mM KNO3	FALSE	Root-NO3-Control	SRP018404.Root-NO3-Control.SRR671948
+SRP018404	SRR671949	wild type	2 hours of 5 mM KNO3	FALSE	Root-NO3-Control	SRP018404.Root-NO3-Control.SRR671949
+SRP018404	SRR671950	wild type, sRNA	2 hours of 5 mM KCl	FALSE	del	
+SRP018404	SRR671951	wild type, sRNA	2 hours of 5 mM KCl	FALSE	del	
+SRP018404	SRR671952	wild type, sRNA	2 hours of 5 mM KNO3	FALSE	del	
+SRP018404	SRR671953	wild type, sRNA	2 hours of 5 mM KNO3	FALSE	del	
+SRP075013	SRR3501525	wild type	high Pi	FALSE	Root-P-High	SRP075013.Root-P-High.SRR3501525
+SRP075013	SRR3501526	wild type	high Pi	FALSE	Root-P-High	SRP075013.Root-P-High.SRR3501526
+SRP075013	SRR3501527	wild type	high Pi	FALSE	Root-P-High	SRP075013.Root-P-High.SRR3501527
+SRP075013	SRR3501528	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501529	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501530	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501531	wild type	high Pi	FALSE	Root-P-Low	SRP075013.Root-P-Low.SRR3501531
+SRP075013	SRR3501532	wild type	high Pi	FALSE	Root-P-Low	SRP075013.Root-P-Low.SRR3501532
+SRP075013	SRR3501533	wild type	high Pi	FALSE	Root-P-Low	SRP075013.Root-P-Low.SRR3501533
+SRP075013	SRR3501534	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501535	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501536	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501537	wild type, genomic	high Pi	FALSE	del	
+SRP075013	SRR3501538	wild type, genomic	high Pi	FALSE	del	
+SRP075013	SRR3501539	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501540	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501541	wild type, genomic	high Pi	FALSE	del	
+SRP075013	SRR3501542	wild type, genomic	high Pi	FALSE	del	
+SRP075013	SRR3501543	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3501544	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709930	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709931	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709932	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709933	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709934	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709935	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709936	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709937	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709938	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709939	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709940	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709941	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709942	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709943	wild type, ChIP	high Pi	FALSE	del	
+SRP075013	SRR3709944	otu5 mutant	low Pi	FALSE	del	
+SRP075013	SRR3709945	otu5 mutant	low Pi	FALSE	del	
+SRP092325	SRR4733528	wild type	Root-plusMg-rep1	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733528
+SRP092325	SRR4733529	wild type	Root-plusMg-rep2	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733529
+SRP092325	SRR4733530	wild type	Root-plusMg-rep3	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733530
+SRP092325	SRR4733531	wild type	Root-plusMg-rep4	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733531
+SRP092325	SRR4733536	wild type	Root-plusMg-rep5	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733536
+SRP092325	SRR4733537	wild type	Root-plusMg-rep6	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733537
+SRP092325	SRR4733538	wild type	Root-plusMg-rep7	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733538
+SRP092325	SRR4733539	wild type	Root-plusMg-rep8	FALSE	Root-Mg-Control	SRP092325.Root-Mg-Control.SRR4733539
+SRP092325	SRR4733540	wild type	Root-minusMg-rep1	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733540
+SRP092325	SRR4733541	wild type	Root-minusMg-rep2	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733541
+SRP092325	SRR4733542	wild type	Root-minusMg-rep3	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733542
+SRP092325	SRR4733543	wild type	Root-minusMg-rep4	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733543
+SRP092325	SRR4733544	wild type	Root-minusMg-rep5	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733544
+SRP092325	SRR4733545	wild type	Root-minusMg-rep6	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733545
+SRP092325	SRR4733546	wild type	Root-minusMg-rep7	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733546
+SRP092325	SRR4733547	wild type	Root-minusMg-rep8	FALSE	Root-Mg-Low	SRP092325.Root-Mg-Low.SRR4733547
+SRP186316	SRR8592601	wild type	Root-plusFe-rep1	TRUE	Root-Fe-Control	SRP186316.Root-Fe-Control.SRR8592601
+SRP186316	SRR8592602	wild type	Root-plusFe-rep2	TRUE	Root-Fe-Control	SRP186316.Root-Fe-Control.SRR8592602
+SRP186316	SRR8592603	wild type	Root-plusFe-rep3	TRUE	Root-Fe-Control	SRP186316.Root-Fe-Control.SRR8592603
+SRP186316	SRR8592604	wild type	Root-minusFe-rep1	TRUE	Root-Fe-Low	SRP186316.Root-Fe-Low.SRR8592604
+SRP186316	SRR8592605	wild type	Root-minusFe-rep2	TRUE	Root-Fe-Low	SRP186316.Root-Fe-Low.SRR8592605
+SRP186316	SRR8592606	wild type	Root-minusFe-rep3	TRUE	Root-Fe-Low	SRP186316.Root-Fe-Low.SRR8592606
+SRP186316	SRR8592607	clf	Root-plusFe-rep1	TRUE	del	
+SRP186316	SRR8592608	clf	Root-plusFe-rep2	TRUE	del	
+SRP186316	SRR8592609	clf	Root-plusFe-rep3	TRUE	del	
+SRP186316	SRR8592610	clf	Root-minusFe-rep1	TRUE	del	
+SRP186316	SRR8592611	clf	Root-minusFe-rep2	TRUE	del	
+SRP186316	SRR8592612	clf	Root-minusFe-rep3	TRUE	del	
