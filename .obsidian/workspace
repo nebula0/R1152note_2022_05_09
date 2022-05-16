@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f66fa73ec4cbb0",
+        "id": "ed4469e9221b289b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf-annotator",
+          "state": {
+            "file": "paper/orchid/Untitled.md"
+          }
         }
       }
     ],
@@ -49,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2c6db30e3b608615",
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paper/orchid/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paper/orchid/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paper/orchid/Untitled.md"
+              }
             }
           }
         ]
@@ -120,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7f66fa73ec4cbb0",
+  "active": "ed4469e9221b289b",
   "lastOpenFiles": [
+    "paper/orchid/Untitled.md",
+    "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf",
+    "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
+    "md_file/Untitled 1.md",
     "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf",
     "paper/paper.md",
-    "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
-    "paper/orchid/The Plant Journal - 2021 - Xu - A chromosome‐scale Gastrodia elata genome and large‐scale comparative genomic analysis.pdf",
     "paper/orchid/The Gastrodia elata genome provides insights into plant adaptation to heterotrophy.pdf",
     "md_file/Untitled.md",
     "md_file/Bash指令.md",
-    "md_file/老師 run.log.md",
-    "md_file/Click-iT™ Plus OPP Alexa Fluor™ 488 Protein Synthesis Assay Kit.md",
-    "md_file/graph theory.md"
+    "md_file/老師 run.log.md"
   ]
 }
