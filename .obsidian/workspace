@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f589db5a59fd750e",
+        "id": "c3e53d743c7b7806",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
+          "type": "markdown",
           "state": {
-            "file": "paper/orchid/Untitled.md"
+            "file": "md_file/graph theory.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/orchid/Untitled.md",
+                "file": "md_file/graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/orchid/Untitled.md",
+                "file": "md_file/graph theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/orchid/Untitled.md"
+                "file": "md_file/graph theory.md"
               }
             }
           }
@@ -127,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f589db5a59fd750e",
+  "active": "c3e53d743c7b7806",
   "lastOpenFiles": [
+    "md_file/graph theory.md",
     "paper/orchid/Untitled.md",
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf",
     "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
@@ -137,7 +139,6 @@
     "paper/paper.md",
     "paper/orchid/The Gastrodia elata genome provides insights into plant adaptation to heterotrophy.pdf",
     "md_file/Untitled.md",
-    "md_file/Bash指令.md",
-    "md_file/老師 run.log.md"
+    "md_file/Bash指令.md"
   ]
 }
