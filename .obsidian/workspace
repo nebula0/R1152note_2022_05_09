@@ -7,10 +7,9 @@
         "id": "c3e53d743c7b7806",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "md_file/graph theory.md",
-            "mode": "preview"
+            "file": "paper/orchid/Untitled.md"
           }
         }
       }
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/graph theory.md",
+                "file": "paper/orchid/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/graph theory.md",
+                "file": "paper/orchid/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/graph theory.md"
+                "file": "paper/orchid/Untitled.md"
               }
             }
           }
@@ -130,8 +129,8 @@
   },
   "active": "c3e53d743c7b7806",
   "lastOpenFiles": [
-    "md_file/graph theory.md",
     "paper/orchid/Untitled.md",
+    "md_file/graph theory.md",
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf",
     "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
     "md_file/Untitled 1.md",
