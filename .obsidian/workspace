@@ -7,10 +7,9 @@
         "id": "f589db5a59fd750e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "paper/orchid/Untitled.md",
-            "mode": "preview"
+            "file": "paper/orchid/Untitled.md"
           }
         }
       }
