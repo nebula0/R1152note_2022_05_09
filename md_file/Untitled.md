@@ -1,5 +1,5 @@
 ```
-qsub -l select=1:ncpus=1 -l walltime=02:15:00 -N "BBMap" -m abe -M "harewhite0@gmail.com" BBMap.sh
+qsub -l select=1:ncpus=1 -l walltime=20:15:00 -N "BBMap" -m abe -M "harewhite0@gmail.com" BBMap.sh
 ```
 SRP092325
 
