@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/Untitled.md",
+            "file": "md_file/Untitled 2.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/Untitled.md"
+                "file": "md_file/Untitled 2.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "69b555d3431aff4f",
   "lastOpenFiles": [
+    "md_file/Untitled 2.md",
     "md_file/Untitled.md",
     "md_file/Linux指令與相關的東西.md",
     "paper/orchid/Untitled.md",
@@ -140,7 +141,6 @@
     "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
     "md_file/Untitled 1.md",
     "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf",
-    "paper/paper.md",
-    "paper/orchid/The Gastrodia elata genome provides insights into plant adaptation to heterotrophy.pdf"
+    "paper/paper.md"
   ]
 }
