@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/Untitled.md",
+            "file": "md_file/Linux指令與相關的東西.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/Linux指令與相關的東西.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/Linux指令與相關的東西.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,19 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/Untitled.md"
+                "file": "md_file/Linux指令與相關的東西.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "69b555d3431aff4f",
   "lastOpenFiles": [
+    "md_file/Linux指令與相關的東西.md",
     "md_file/Untitled.md",
     "paper/orchid/Untitled.md",
     "md_file/graph theory.md",
@@ -138,7 +139,6 @@
     "md_file/Untitled 1.md",
     "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf",
     "paper/paper.md",
-    "paper/orchid/The Gastrodia elata genome provides insights into plant adaptation to heterotrophy.pdf",
-    "md_file/Bash指令.md"
+    "paper/orchid/The Gastrodia elata genome provides insights into plant adaptation to heterotrophy.pdf"
   ]
 }

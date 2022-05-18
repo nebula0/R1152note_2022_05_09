@@ -1,6 +1,20 @@
 #課堂筆記  #linux
 
 # 筆記
+### loop through array
+`$@` 跟`$*` 的差別
+
+
+```bash
+for i in "${INPUT[*]}"; do
+echo $i;
+done
+
+./input/SRR331219.fastq.BBDuk-trimmed.fq.gz ./input/SRR331224.fastq.BBDuk-trimmed                                                                       .fq.gz ./input/SRR331227.fastq.BBDuk-trimmed.fq.gz ./input/SRR331228.fastq.BBDuk-                                                                       trimmed.fq.gz ./input/SRR331229.fastq.BBDuk-trimmed.fq.gz
+
+
+```
+
 ### tar
 [ref](https://project.zhps.tp.edu.tw/ethan/2009/09/compress/)
 .tar  
