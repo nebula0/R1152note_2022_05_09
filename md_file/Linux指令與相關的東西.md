@@ -6,12 +6,33 @@
 
 
 ```bash
+#!bin/bash
+
+INPUT=(aaa bbb ccc ddd)
 for i in "${INPUT[*]}"; do
+echo $i www;
+done
+
+# aaa bbb ccc ddd www
+
+# 他會把那個list視為一個字串印出來
+
+```
+
+```bash
+#!bin/bash
+
+INPUT=(aaa bbb ccc ddd)
+for i in "${INPUT[@]}"; do
 echo $i;
 done
 
-./input/SRR331219.fastq.BBDuk-trimmed.fq.gz ./input/SRR331224.fastq.BBDuk-trimmed                                                                       .fq.gz ./input/SRR331227.fastq.BBDuk-trimmed.fq.gz ./input/SRR331228.fastq.BBDuk-                                                                       trimmed.fq.gz ./input/SRR331229.fastq.BBDuk-trimmed.fq.gz
+# aaa www
+# bbb www
+# ccc www
+# ddd www
 
+# 他會把那個list的元素(?)一個一個拆出來印出來
 
 ```
 
