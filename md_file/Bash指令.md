@@ -3,6 +3,20 @@ tags: R1152note, linux
 ---
 #linux 
 
+### for and while
+```
+for ((init; check; step)); do
+    body
+done
+```
+```bash
+init
+while check; do
+    body
+    step
+done
+```
+
 ### if
 ```bash
 for i in {1..30}; do if [ $i != 10 ]; then echo "hello $i"; fi; done

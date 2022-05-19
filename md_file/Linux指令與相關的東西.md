@@ -268,7 +268,94 @@ bashrc
 	按enter再輸入`source ~/.git-prompt.sh`
 	
 
+### for and while
+```
+for ((init; check; step)); do
+    body
+done
+```
+```bash
+init
+while check; do
+    body
+    step
+done
+```
 
+### if
+```bash
+for i in {1..30}; do if [ $i != 10 ]; then echo "hello $i"; fi; done
+```
+注意大括號旁的空格一定要空
+### for
+
+```bash
+for (( i=0; i<${#numbers[@]}; i++ )); do echo ${numbers[i]}; done
+echo
+printf "%s\n" "${lines[@]}"
+```
+https://www.cyberciti.biz/faq/bash-for-loop/
+
+#### for range
+```bash
+ for i in {1..5}; do echo $i; done
+
+
+```
+#### loop through array
+宣告array
+```bash
+array = (A B C D)
+array = (A, B, C, D)
+```
+
+loop through array
+```bash
+for i in "${array[@]}"; 
+do
+	echo $i
+done
+
+# A
+# B
+# C
+# D
+
+```
+'''
+[ref](https://gary840227.medium.com/linux-bash-array-%E4%BB%8B%E7%B4%B9-6e30ffe87978)
+#### loop through command output
+這個方法會切開所有字 而非個別 command，所以其實要用 `while` + `read`因為`read`處理行 [ref](https://stackoverflow.com/questions/35927760/how-can-i-loop-over-the-output-of-a-shell-command)
+
+your file
+```bash
+foo bar
+hello world
+```
+
+code
+```bash
+for i in $(cat file); do
+    echo "$i"
+done
+
+```
+
+output
+```bash
+foo
+bar
+hello
+world
+```
+
+### while
+loop 檔案裡的東西
+```bash
+while read line; do echo $line done < lorem-ipsum.txt
+```
+
+loop command output [ref](https://stackoverflow.com/questions/35927760/how-can-i-loop-over-the-output-of-a-shell-command)
 
 
 

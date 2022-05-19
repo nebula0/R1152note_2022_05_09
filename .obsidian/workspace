@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c6db30e3b608615",
@@ -127,12 +126,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "69b555d3431aff4f",
   "lastOpenFiles": [
     "md_file/Linux指令與相關的東西.md",
+    "md_file/Bash指令.md",
     "md_file/Untitled.md",
     "md_file/Untitled 2.md",
     "paper/orchid/Untitled.md",
@@ -140,7 +139,6 @@
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf",
     "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
     "md_file/Untitled 1.md",
-    "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf",
-    "paper/paper.md"
+    "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf"
   ]
 }
