@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/Untitled.md",
+            "file": "md_file/C 問題.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/C 問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/Untitled.md",
+                "file": "md_file/C 問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/Untitled.md"
+                "file": "md_file/C 問題.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "69b555d3431aff4f",
   "lastOpenFiles": [
+    "md_file/C 問題.md",
     "md_file/Untitled.md",
     "md_file/Linux指令與相關的東西.md",
     "md_file/Bash指令.md",
@@ -138,7 +139,6 @@
     "md_file/graph theory.md",
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf",
     "paper/orchid/Plant Cell   Environment - 2020 - Ho - GeSUT4 mediates sucrose import at the symbiotic interface for carbon allocation of.pdf",
-    "md_file/Untitled 1.md",
-    "paper/[suplement]Translational Landscape of Photomorphogenic Arabidopsis.pdf"
+    "md_file/Untitled 1.md"
   ]
 }
