@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/5_21作業紀錄.md",
+            "file": "md_file/Untitled.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/5_21作業紀錄.md",
+                "file": "md_file/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/5_21作業紀錄.md",
+                "file": "md_file/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/5_21作業紀錄.md"
+                "file": "md_file/Untitled.md"
               }
             }
           }
@@ -132,8 +132,8 @@
   },
   "active": "69b555d3431aff4f",
   "lastOpenFiles": [
-    "md_file/5_21作業紀錄.md",
     "md_file/Untitled.md",
+    "md_file/5_21作業紀錄.md",
     "md_file/C 筆記.md",
     "md_file/C 問題.md",
     "md_file/Linux指令與相關的東西.md",
