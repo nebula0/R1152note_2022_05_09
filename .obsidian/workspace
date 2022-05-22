@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "69b555d3431aff4f",
+        "id": "33e3621e451d5170",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "id": "33e3621e451d5170",
+        "id": "a7630da989258da2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -141,7 +141,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33e3621e451d5170",
+  "active": "a7630da989258da2",
   "lastOpenFiles": [
     "md_file/5_21作業紀錄.md",
     "paper/orchid/Untitled.md",
