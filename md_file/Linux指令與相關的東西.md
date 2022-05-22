@@ -206,9 +206,25 @@ example:`ls -1 | wc -l`
 `cut -f1 <file_name>`
 印出第一個colume 好像沒辦法印row
 如果檔案不是用tab分隔可能要看看help怎麼做
+```
+# 擷取第 2 個字元至第 10 個字元
+ls -l | tail -n 5 | cut -c 2-10
 
+# 擷取第 2-3 個、第 5-6 個與第 8-9 個字元
+ls -l | tail -n 5 | cut -c 2-3,5-6,8-9
 
-`cut -f1 <file_name> | sort
+# 排除第 2 個字元至第 10 個字元
+ls -l | tail -n 5 | cut -c 2-10 --complement
+
+# 擷取 /etc/passwd 的第 1 個與第 7 個欄位 指定冒號為分隔字元
+head -n 5 /etc/passwd | cut -d : -f 1,7
+
+# 指定輸出欄位分隔字元
+head -n 5 /etc/passwd | cut -d : -f 1,7 --output-delimiter="^_^"
+```
+[ref](https://blog.gtwang.org/linux/linux-cut-command-tutorial-and-examples/)
+
+`cut -f1 <file_name> | sort`
 
 
 ### grep
