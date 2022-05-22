@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "33e3621e451d5170",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md_file/5_21作業紀錄.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -130,16 +141,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69b555d3431aff4f",
+  "active": "33e3621e451d5170",
   "lastOpenFiles": [
     "md_file/5_21作業紀錄.md",
+    "paper/orchid/Untitled.md",
     "md_file/Linux指令與相關的東西.md",
     "md_file/Untitled.md",
     "md_file/C 筆記.md",
     "md_file/C 問題.md",
     "md_file/Bash指令.md",
     "md_file/Untitled 2.md",
-    "paper/orchid/Untitled.md",
     "md_file/graph theory.md",
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis.pdf"
   ]
