@@ -7,9 +7,10 @@
         "id": "33e3621e451d5170",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
+          "type": "markdown",
           "state": {
-            "file": "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md"
+            "file": "md_file/計畫題目命名.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md",
+                "file": "md_file/計畫題目命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md",
+                "file": "md_file/計畫題目命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md"
+                "file": "md_file/計畫題目命名.md"
               }
             }
           }
@@ -130,6 +131,7 @@
   },
   "active": "33e3621e451d5170",
   "lastOpenFiles": [
+    "md_file/計畫題目命名.md",
     "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md",
     "paper/paper.md",
     "md_file/Untitled 1.md",
@@ -138,7 +140,6 @@
     "md_file/C 問題.md",
     "md_file/5_21作業紀錄.md",
     "paper/orchid/Untitled.md",
-    "md_file/Linux指令與相關的東西.md",
-    "md_file/C 筆記.md"
+    "md_file/Linux指令與相關的東西.md"
   ]
 }
