@@ -1,6 +1,13 @@
 #課堂筆記  #linux
 
 # 筆記
+### find
+重新命名檔案 沒試過但看起來很好用
+`find . -name *.txt -exec sed -i 's/2020/2070/g' {} \;`
+很多重新命名檔案的方式[How to Find and Replace Text in a File](https://www.baeldung.com/linux/find-replace-text-in-file)
+### pwd
+現在路徑
+`dir=$(pwd)` 將現在路徑存入變數
 ### date
 ```bash
 start=`date +%s`
@@ -253,6 +260,8 @@ head -n 5 /etc/passwd | cut -d : -f 1,7 --output-delimiter="^_^"
 - `sed ‘s/foo/bar/’` 將foo換成bar，僅置換一次 [來源](https://ithelp.ithome.com.tw/articles/10102024)
 - `sed ‘s/The/Wow!/g’`檔案中`THe`全部置換成`Wow!`
 -  `cat my_file.txt | sed '4,5 s/Google/Yahoo/g' > new.txt` 把改完的結果存到`new.txt`
+-  `sed -i` 更改檔案
+-  `sed -e` 打印結果
 #### "S ?"
 -  `sed "s/.....$//g"` 有幾個`.`就是刪除幾個最後的字元 [來源](https://shazi.info/從-bash-中刪除最後-n-個字元/)
 
@@ -373,7 +382,10 @@ while read line; do echo $line done < lorem-ipsum.txt
 
 loop command output [ref](https://stackoverflow.com/questions/35927760/how-can-i-loop-over-the-output-of-a-shell-command)
 
-
+批次命名檔案 第一個欄位原檔名 第二個欄位新檔名
+```bash=
+while read a b; do mv "$a" "$b"; done < names.txt
+```
 
 
 --
