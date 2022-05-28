@@ -9,3 +9,10 @@ SRP092325
 把鋪前有的annotation 成一個ref
 protocal 發芽時期定性研究
 	single call
+	
+DRP003836
+SRP007763
+SRP018404
+SRP075013
+SRP092325
+SRP186316
