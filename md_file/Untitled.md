@@ -1,5 +1,5 @@
 ```
-	qsub -l select=1:ncpus=1 -l walltime=00:15:00 -N "feature count" -m abe -M "harewhite0@gmail.com" BBMap2.sh
+	qsub -l select=1:ncpus=1 -l walltime=02:15:00 -N "feature--count" -m abe -M "harewhite0@gmail.com" BBMap2.sh
 
 qsub -l select=1:ncpus=1 -l walltime=04:15:00 -N "BBtrim.." -m abe -M "harewhite0@gmail.com" BBDuk.sh
 ```

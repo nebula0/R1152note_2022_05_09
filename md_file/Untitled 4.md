@@ -14,3 +14,4 @@ script of PI
 	![[Pasted image 20220528220448.png]]
 	
 	[https://nova.astrometry.net/](https://nova.astrometry.net/)
+	Mastering PixInsight and the art of Astroimage Processing
