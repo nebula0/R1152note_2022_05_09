@@ -170,7 +170,7 @@ done < SRP_all.txt
 ```bash
 while read SRP; do
 cd ~/project/meta-analysis.nutrient/Arabidopsis/$SRP/00_fastq
-qsub -l select=1:ncpus=1 -l walltime=1:00:00 -N "fastq-dump" -m abe -M "harewhite0@gmail.com" download.sh
+qsub -l select=1:ncpus=1 -l walltime=00:20:00 -N "fastq-dump" -m abe -M "harewhite0@gmail.com" download.sh
 echo ----OuO----$SRP
 done < ~/project/meta-analysis.nutrient/Arabidopsis/SRP_all.txt
 
