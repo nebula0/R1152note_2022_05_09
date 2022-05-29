@@ -294,7 +294,7 @@ bashrc
 	
 
 ### for and while
-```
+```bash
 for ((init; check; step)); do
     body
 done
@@ -320,6 +320,17 @@ echo
 printf "%s\n" "${lines[@]}"
 ```
 https://www.cyberciti.biz/faq/bash-for-loop/
+#### for two item
+```bash
+P1=($(ls | grep _1))
+P2=($(ls | grep _2))
+
+for ((i=0;i<=${#P1[@]};i++)); do
+        echo "${P1[i]}" === "${P2[i]}";
+done
+
+```
+[ref](https://stackoverflow.com/questions/11215088/bash-shell-script-two-variables-in-for-loop)
 
 #### for range
 ```bash
