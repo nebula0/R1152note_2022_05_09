@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/Linux指令與相關的東西.md",
+            "file": "md_file/郵件暫存.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/Linux指令與相關的東西.md",
+                "file": "md_file/郵件暫存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/Linux指令與相關的東西.md",
+                "file": "md_file/郵件暫存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/Linux指令與相關的東西.md"
+                "file": "md_file/郵件暫存.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "33e3621e451d5170",
   "lastOpenFiles": [
+    "md_file/郵件暫存.md",
     "md_file/Linux指令與相關的東西.md",
     "md_file/31_05_2022 整理檔案記錄.md",
     "md_file/Bash指令.md",
@@ -140,7 +141,6 @@
     "md_file/Untitled 7.md",
     "attachment/Pasted image 20220531112415.png",
     "md_file/2022_05_28作業log記錄.md",
-    "md_file/Untitled.md",
-    "md_file/Untitled 4.md"
+    "md_file/Untitled.md"
   ]
 }
