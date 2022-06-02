@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/郵件暫存.md",
+            "file": "md_file/31_05_2022 整理檔案記錄.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "if",
+                "query": "file exi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/郵件暫存.md",
+                "file": "md_file/31_05_2022 整理檔案記錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/郵件暫存.md",
+                "file": "md_file/31_05_2022 整理檔案記錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/郵件暫存.md"
+                "file": "md_file/31_05_2022 整理檔案記錄.md"
               }
             }
           }
@@ -132,9 +132,9 @@
   },
   "active": "33e3621e451d5170",
   "lastOpenFiles": [
+    "md_file/31_05_2022 整理檔案記錄.md",
     "md_file/郵件暫存.md",
     "md_file/Linux指令與相關的東西.md",
-    "md_file/31_05_2022 整理檔案記錄.md",
     "md_file/Bash指令.md",
     "md_file/重跑bam名稱格式.md",
     "md_file/Untitled 6.md",
