@@ -1,6 +1,11 @@
 #課堂筆記  #linux
 
 # 筆記
+### check file exist or not
+```bash
+# ckeck if directory (-d) exist, ckeck file (-f), check anything (-e) 
+ [ ! -d output.bam ] && echo "$FILE does not exist."
+```
 ### find
 重新命名檔案 沒試過但看起來很好用
 `find . -name *.txt -exec sed -i 's/2020/2070/g' {} \;`
@@ -311,7 +316,25 @@ done
 ```bash
 for i in {1..30}; do if [ $i != 10 ]; then echo "hello $i"; fi; done
 ```
-注意大括號旁的空格一定要空
+
+```bash
+if [ -f "/home/phpini/testfile" ]
+then
+    echo "/home/phpini/testfile is a file"
+else
+    echo "/home/phpini/testfile is not a file"
+fi
+```
+注意中括號旁的空格一定要空
+
+```bash
+a="1";
+b="2";
+if [[ a=="1" || b=="3" ]]; then
+echo www;
+fi
+```
+不知道為什麼中括號要用兩層 一層會跳錯 `||`是 or
 ### for
 
 ```bash
