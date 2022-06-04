@@ -313,6 +313,7 @@ done
 ```
 
 ### if
+[ref](https://www.thegeekdiary.com/bash-if-loop-examples-if-then-fi-if-then-elif-fi-if-then-else-fi/)
 ```bash
 for i in {1..30}; do if [ $i != 10 ]; then echo "hello $i"; fi; done
 ```
