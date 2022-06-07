@@ -337,6 +337,17 @@ fi
 ```
 不知道為什麼中括號要用兩層 一層會跳錯 `||`是 or
 **`==`旁邊一定要空格!!!!!!!!!**
+
+elif
+```bash=
+if [ conditions ]; then
+   # Things
+elif [ other_conditions ]; then
+   # Other things
+else
+   # In case none of the above occurs
+fi
+```
 ### for
 
 ```bash

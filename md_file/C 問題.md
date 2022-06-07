@@ -1,3 +1,4 @@
+#C
 ![[Pasted image 20220520000452.png]]
 `#include <stdio.h>`註解掉也沒差?
 
