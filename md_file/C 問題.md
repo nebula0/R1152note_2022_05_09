@@ -14,3 +14,7 @@ single-precision floating point 跟 double-precision floating point
 
 ---
 long 跟unsign
+
+---
+
+define是啥

@@ -48,3 +48,39 @@ ex
 ```C
 int max = (i > j)? i : j;
 ```
+
+### Switch case
+
+```C
+switch (flag) {
+	case 1:
+		statement1;
+		break;
+	case 2: case 3: 
+		statement2;
+		break;
+		
+	case n:
+		statementn;
+		break;
+	default:
+		default_statement;
+}
+
+```
+- 不加 break 可以 compile，但要跳出剩下判斷必須加
+- flag 只能是變數不能是算式
+- case 只能是常數不能是算式 
+- 可以把 case 串起來
+- default 可加可不加 處理例外狀況方便
+- 放在 main 裡面時，會有 warning return type defaults to ‘int’ [-Wreturn-type][這裡](https://blog.moli.rocks/2016/12/15/why-should-main-return-in-c/)有解釋，不太懂
+	- main 變成 int main，仍然可以 return 非 int 的東西，會有warning
+等價於
+```C
+if (flag == 1){
+statement1;} else if (flag == 2){
+statement2;} else if (flag == n) {
+statementn} else {
+default_statement;
+}
+```
