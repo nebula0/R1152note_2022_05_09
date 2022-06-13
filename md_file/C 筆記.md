@@ -68,7 +68,7 @@ switch (flag) {
 }
 
 ```
-- 不加 break 可以 compile，但要跳出剩下判斷必須加
+- 不加 break 可以 compile，但會發生可怕的事情!!!
 - flag 只能是變數不能是算式
 - case 只能是常數不能是算式 
 - 可以把 case 串起來
@@ -83,4 +83,31 @@ statement2;} else if (flag == n) {
 statementn} else {
 default_statement;
 }
+```
+
+### define
+```C
+# define ADD 0
+```
+不知道他跟declare的差別在哪 之後再看
+
+### while
+```C
+while (condotion) {
+	//code to be execute
+}
+```
+
+#### do while
+```C
+do {  
+  _// code block to be executed_}  
+while (_condition_);
+```
+不論 while 條件對錯都會執行一次，如果條件對就跟一般 while 行為一樣
+
+### for
+```C
+
+
 ```
