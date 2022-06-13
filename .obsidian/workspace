@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/C 問題.md",
-            "mode": "source"
+            "file": "md_file/Pandas indexing.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "include",
+                "query": "pandas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/C 問題.md",
+                "file": "md_file/Pandas indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/C 問題.md",
+                "file": "md_file/Pandas indexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/C 問題.md"
+                "file": "md_file/Pandas indexing.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "e1f7cb350c174391",
   "lastOpenFiles": [
+    "md_file/Pandas indexing.md",
     "md_file/C 問題.md",
     "md_file/C 筆記.md",
     "md_file/2022-06-08.md",
@@ -140,7 +141,6 @@
     "md_file/重跑bam名稱格式.md",
     "md_file/郵件暫存.md",
     "md_file/31_05_2022 整理檔案記錄.md",
-    "md_file/Bash指令.md",
-    "md_file/Untitled 6.md"
+    "md_file/Bash指令.md"
   ]
 }
