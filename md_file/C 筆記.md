@@ -108,6 +108,9 @@ while (_condition_);
 
 ### for
 ```C
-
+for (i = 1; i < 5; i++)
+{printf("%d", i);}
+}
 
 ```
+for (execute before loop, condition, repeat every round )
