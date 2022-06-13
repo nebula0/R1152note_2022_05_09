@@ -114,3 +114,18 @@ for (i = 1; i < 5; i++)
 
 ```
 for (execute before loop, condition, repeat every round )
+
+### array
+```C
+int main(){
+int ARRAy [3] = {1, 2, 3, 4};
+
+int i;
+for (i = 0; i < 4; i++){
+
+printf("%d", ARRAy[i]);
+}
+}
+//1233
+```
+array元素超過宣告的array大小可以compile ，有warning，會ˋ出問題但可以跑 好詭異RRR
