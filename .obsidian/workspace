@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f7cb350c174391",
+        "id": "4b4ac13c19a94a1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/python print list.md",
+            "file": "md_file/05_05_2022 meeting.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "meeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2c6db30e3b608615",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/python print list.md",
+                "file": "md_file/05_05_2022 meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/python print list.md",
+                "file": "md_file/05_05_2022 meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/python print list.md"
+                "file": "md_file/05_05_2022 meeting.md"
               }
             }
           }
@@ -130,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1f7cb350c174391",
+  "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
-    "md_file/python print list.md",
-    "md_file/python 交集聯集差集.md",
-    "md_file/雜亂速記.md",
-    "md_file/Pandas iterate.md",
-    "md_file/其他名詞解釋.md",
+    "md_file/05_05_2022 meeting.md",
+    "md_file/09_06_2022 meeting.md",
+    "md_file/2022-06-08.md",
+    "md_file/06_05_2022 大meeting.md",
+    "md_file/計畫題目命名.md",
     "md_file/下載 E-utilities 記錄.md",
-    "md_file/Linux指令與相關的東西.md",
-    "md_file/C 筆記.md",
-    "md_file/C 問題.md",
-    "md_file/Pandas indexing.md"
+    "md_file/下載 tmux 的指令整理.md",
+    "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md",
+    "md_file/程式結點.md",
+    "md_file/5_21作業紀錄.md"
   ]
 }

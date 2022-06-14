@@ -1,3 +1,5 @@
+#linux_script 
+
 有沒有辦法弄一個 shell script 呢
 ```bash
 #!/bin/bash
