@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/E-utility Database Name2.md",
-            "mode": "preview"
+            "file": "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/E-utility Database Name2.md",
+                "file": "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/E-utility Database Name2.md",
+                "file": "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/E-utility Database Name2.md"
+                "file": "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
+    "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
     "md_file/E-utility Database Name2.md",
     "md_file/E-utility Database Name.md",
     "md_file/esearch.md",
@@ -140,7 +141,6 @@
     "md_file/29_05_2022作業 剪featureCount結果.md",
     "md_file/22_05_2022作業 剪map結果.md",
     "md_file/01_05_2022作業 剪fastq結果.md",
-    "md_file/16_03_2022 作業 解釋指令.md",
-    "md_file/應用基因體學專題討論 第三週負責文章.md"
+    "md_file/16_03_2022 作業 解釋指令.md"
   ]
 }
