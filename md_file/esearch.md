@@ -1,4 +1,4 @@
-#bash
+#bash #E-utility 
 
 ```bash
 $ esearch -db sra -query "PRJNA517527" | efetch -format runinfo | grep -v "Run" | cut -d ',' -f1
