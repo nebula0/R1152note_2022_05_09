@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/05_05_2022 meeting.md",
+            "file": "md_file/esearch.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meeting",
+                "query": "tag:#R1152筆記",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/05_05_2022 meeting.md",
+                "file": "md_file/esearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/05_05_2022 meeting.md",
+                "file": "md_file/esearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/05_05_2022 meeting.md"
+                "file": "md_file/esearch.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
-    "md_file/05_05_2022 meeting.md",
+    "md_file/esearch.md",
+    "md_file/07_06_2022作業修正.md",
+    "md_file/29_05_2022作業 剪featureCount結果.md",
+    "md_file/22_05_2022作業 剪map結果.md",
+    "md_file/01_05_2022作業 剪fastq結果.md",
+    "md_file/16_03_2022 作業 解釋指令.md",
+    "md_file/應用基因體學專題討論 第三週負責文章.md",
+    "md_file/Bash指令.md",
     "md_file/09_06_2022 meeting.md",
-    "md_file/2022-06-08.md",
-    "md_file/06_05_2022 大meeting.md",
-    "md_file/計畫題目命名.md",
-    "md_file/下載 E-utilities 記錄.md",
-    "md_file/下載 tmux 的指令整理.md",
-    "paper/orchid/A_chromosome‐scale_Gastrodia_elata_genome_and large‐scale_comparative_genomic_analysis/wwww.md",
-    "md_file/程式結點.md",
-    "md_file/5_21作業紀錄.md"
+    "md_file/2022-06-09 meeting.md"
   ]
 }

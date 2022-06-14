@@ -1,6 +1,4 @@
----
-tags: R1152note, linux
----
+
 #linux 
 
 ### for and while
