@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md",
+            "file": "md_file/可以用的script.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md",
+                "file": "md_file/可以用的script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md",
+                "file": "md_file/可以用的script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md"
+                "file": "md_file/可以用的script.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
+    "md_file/可以用的script.md",
     "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md",
     "md_file/C 筆記.md",
     "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
@@ -140,7 +141,6 @@
     "md_file/esearch.md",
     "md_file/下載 E-utilities 記錄.md",
     "md_file/07_06_2022作業修正.md",
-    "md_file/29_05_2022作業 剪featureCount結果.md",
-    "md_file/22_05_2022作業 剪map結果.md"
+    "md_file/29_05_2022作業 剪featureCount結果.md"
   ]
 }
