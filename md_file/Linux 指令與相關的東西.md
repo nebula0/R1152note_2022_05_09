@@ -1,6 +1,20 @@
 #課堂筆記  #linux 
 
 # 筆記
+### rename
+```bash
+rename <pattern> <replacement> <file-list>
+
+rename -v <pattern> <replacement> <file-list>
+# preview
+```
+
+example
+```bash
+
+```
+
+
 ### check file exist or not
 ```bash
 # ckeck if directory (-d) exist, ckeck file (-f), check anything (-e) 

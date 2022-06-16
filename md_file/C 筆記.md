@@ -129,3 +129,5 @@ printf("%d", ARRAy[i]);
 //1233
 ```
 array元素超過宣告的array大小可以compile ，有warning，會ˋ出問題但可以跑 好詭異RRR
+
+rename 'S/3Root/3.root/' SRP007763Root-Fe-ControlSRR331219.sorted.bam.featureCount
