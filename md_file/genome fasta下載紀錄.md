@@ -9,3 +9,6 @@ Logging in as anonymous ... Logged in!
 ==> SIZE CRA004500 ... done.
 ==> PASV ... done.    ==> RETR CRA004500 ...
 No such file ‘CRA004500’.
+
+
+https://download.cncb.ac.cn/gwh/Plants/Gastrodia_elata_Gel_v2.0_GWHBDNU00000000/GWHBDNU00000000.genome.fasta.gz
