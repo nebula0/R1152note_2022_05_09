@@ -104,7 +104,7 @@ do {
   _// code block to be executed_}  
 while (_condition_);
 ```
-不論 while 條件對錯都會執行一次，如果條件對就跟一般 while 行為一樣
+不論 while 條件對錯都會執行一次，如果條件對就跟一般 while 行為一樣，繼續執行do裡面的東西直到條件錯誤
 
 ### for
 ```C
