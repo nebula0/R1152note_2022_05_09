@@ -17,16 +17,23 @@ ls | grep "^DSC" | cut -c 1-3 --complement > minusDSC.txt && for i in $(cat minu
 ```
 
 
-BBDuk.sh ?
+
+
+
+### G elata
+BBDuk.sh 
 ```bash
-for f in `ls -1 ./input/S*_1*fastq`
+#!/bin/bash
+cd  ~/project/meta-analysis.symbiosys/G_elata/not_release/01_BBDuk-trim
+for f in `ls -1 ./input/*_R1.fastq`
 do
-    name=($(basename $f| cut -f1 -d '_'))
-    in1=($(ls ./input/"$name"_1.fastq))
-    in2=($(ls ./input/"$name"_2.fastq))
+    name=($(basename $f|cut -f1-3 -d '_'))
+    in1=($(ls ./input/"$name"_R1.fastq))
+    in2=($(ls ./input/"$name"_R2.fastq))
     echo "Processing $in1 $in2"
-    bbduk.sh -Xmx28g in1=$in1 in2=$in2 out1="$name"_1.BBDuk-trimmed.fq.gz out2="$name"_2.BBDuk-trimmed.fq.gz \
+    bbduk.sh -Xmx28g in1=$in1 in2=$in2 out1="$name"_R1.BBDuk-trimmed.fq.gz out2="$name"_R2.BBDuk-trimmed.fq.gz \
     overwrite=t ref=~/package/bbmap/resources/adapters.fa ordered=t ktrim=r k=25 mink=11 minlength=35
     echo "Finishing $name"
 done
+
 ```
