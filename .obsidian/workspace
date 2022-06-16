@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/下載 E-utilities 記錄.md",
+            "file": "md_file/C 筆記.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/下載 E-utilities 記錄.md",
+                "file": "md_file/C 筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/下載 E-utilities 記錄.md",
+                "file": "md_file/C 筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/下載 E-utilities 記錄.md"
+                "file": "md_file/C 筆記.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
+    "md_file/C 筆記.md",
     "md_file/下載 E-utilities 記錄.md",
     "md_file/genome fasta下載紀錄.md",
     "md_file/Bash指令.md",
@@ -139,7 +140,6 @@
     "md_file/Linux 指令與相關的東西.md",
     "md_file/16_03_2022 作業 解釋指令.md",
     "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md",
-    "md_file/C 筆記.md",
     "md_file/NCBI Minute Introducing the Updated PubMed E-utilities (API) 筆記.md",
     "md_file/E-utility Database Name2.md"
   ]
