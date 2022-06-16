@@ -51,7 +51,7 @@ done
 ```
 '''
 [ref](https://gary840227.medium.com/linux-bash-array-%E4%BB%8B%E7%B4%B9-6e30ffe87978)
-#### loop through command output
+####  through command output
 這個方法會切開所有字 而非個別 command，所以其實要用 `while` + `read`因為`read`處理行 [ref](https://stackoverflow.com/questions/35927760/how-can-i-loop-over-the-output-of-a-shell-command)
 
 your file
