@@ -38,8 +38,31 @@ done
 
 ```
 
+BBMap.sh
+```bash
+#!/bin/bash
+cd ~/project/meta-analysis.symbiosys/G_elata/not_release/02_BBMap
+[ ! -d unmapped ] && mkdir unmapped
+[ ! -d output.bam ] && mkdir output.bam
+[ ! -d input ] && ln -sf ../01_BBDuk-trim ./input
+[ ! -d GWHBDNU00000000.genome.fasta ] && ln -sf /home/hpc/ls7046-0/genome.fasta/Gastrodia/GWHBDNU00000000.genome.fasta
+bbmap.sh ref=GWHBDNU00000000.genome.fasta
+
+for i in `ls ./input/*R1.BBDuk-trimmed*gz`; do
+RUN=($(basename $i | cut -d "_" -f 1-3 ))
+INPUT1=./input/"$RUN"_R1.BBDuk-trimmed.fq.gz
+INPUT2=./input/"$RUN"_R2.BBDuk-trimmed.fq.gz
+
+echo processing $RUN
+bbmap.sh -Xmx32g in=$INPUT1 in2=$INPUT2 ordered=t maxindel=2000 overwrite=t outm=$RUN.sam outu=unmapped/$RUN.unmapped.sam
+samtools view -b $RUN.sam| samtools sort -o output.bam/$RUN.sorted.bam -
+samtools index output.bam/$RUN.sorted.bam
+
+done
+```
+
 BBmap result summary
-second row is mapped percentage, third row is unambiguous
+first row in name, second row is mapped  pct reads , third row is unambiguous
 ```bash
 cat bbmap01.e244540  | grep ^mapped | cut -f2 > mapped_rate_column2.tsv
 cat bbmap01.e244540  | grep ^unam | cut -f2 > unambiguous_rate_column2.tsv
