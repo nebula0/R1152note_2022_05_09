@@ -38,4 +38,14 @@ done
 
 ```
 
+BBmap result summary
+second row is mapped percentage, third row is unambiguous
+```bash
+cat bbmap01.e244540  | grep ^mapped | cut -f2 > mapped_rate_column2.tsv
+cat bbmap01.e244540  | grep ^unam | cut -f2 > unambiguous_rate_column2.tsv
+cat bbmap01.e244540 | grep java | awk -v FS="/" -v OFS="\n" '{print $10, $12}' | cut -f1 -d "." | grep . > name.tsv
+
+paste -d "\t"  name.tsv mapped_rate_column2.tsv unambiguous_rate_column2.tsv > mapp_sumarry.tsv
+```
+
 
