@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/fastQC doc.md",
+            "file": "md_file/Data Science for High-Throughput Sequencing.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/fastQC doc.md",
+                "file": "md_file/Data Science for High-Throughput Sequencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/fastQC doc.md",
+                "file": "md_file/Data Science for High-Throughput Sequencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/fastQC doc.md"
+                "file": "md_file/Data Science for High-Throughput Sequencing.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
+    "md_file/Data Science for High-Throughput Sequencing.md",
     "md_file/fastQC doc.md",
     "md_file/Bash指令.md",
     "md_file/可以用的script.md",
@@ -140,7 +141,6 @@
     "md_file/C 題目.md",
     "md_file/下載 E-utilities 記錄.md",
     "md_file/genome fasta下載紀錄.md",
-    "md_file/16_03_2022 作業 解釋指令.md",
-    "md_file/師社群活動第一場-6_15-台灣業界工作申請與面談工作坊.md"
+    "md_file/16_03_2022 作業 解釋指令.md"
   ]
 }
