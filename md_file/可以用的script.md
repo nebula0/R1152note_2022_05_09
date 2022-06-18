@@ -72,3 +72,21 @@ paste -d "\t"  name.tsv mapped_rate_column2.tsv unambiguous_rate_column2.tsv > m
 ```
 
 
+---
+ERROR: no features were loaded in format GTF. The annotation format can be specified by the '-F' option, and the required feature type can be specified by the '-t' option..
+記錄
+
+# Annotation
+
+  -F <string>         Specify format of the provided annotation file. Acceptable
+                      formats include 'GTF' (or compatible GFF format) and
+                      'SAF'. 'GTF' by default.  For SAF format, please refer to
+                      Users Guide.
+-t <string>         Specify feature type(s) in a GTF annotation. If multiple
+                      types are provided, they should be separated by ',' with
+                      no space in between. 'exon' by default. Rows in the
+                      annotation with a matched feature will be extracted and
+                      used for read mapping.
+
+
+
