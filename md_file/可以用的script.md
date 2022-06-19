@@ -71,7 +71,28 @@ cat bbmap01.e244540 | grep java | awk -v FS="/" -v OFS="\n" '{print $10, $12}' |
 paste -d "\t"  name.tsv mapped_rate_column2.tsv unambiguous_rate_column2.tsv > mapp_sumarry.tsv
 ```
 
+featureCounts.sh
+```bash
+#!/bin/bash
+#Paird End
+subfol="03_featureCounts"
 
+[ ! -d input ] && ln -sf ../02_BBMap/output.bam/ ./input;
+[ ! -d GWHBDNU00000000.gff ] && ln -sf /home/hpc/ls7046-0/genome.fasta/Gastrodia/GWHBDNU00000000.gff
+[ ! -d output ] && mkdir output;
+INPUT=($(ls ./input/*bam ));
+for INPUT in ${INPUT[@]}; do
+  OUTPUT=($(basename $INPUT| cut -f1-3 -d '_'));
+  featureCounts -g ID -p --countReadPair -C -T 1 -s 0 -O -a GWHBDNU00000000.gff -o output/$OUTPUT.featureCounts $INPUT;
+done
+
+#-T:thread;
+#-R:output alignment result for each read, this is useful when you need to troubleshoot why were some reads not assigned;
+#-s:Perform strand-specific read counting. Acceptable values:0 (unstranded), 1 (stranded) and 2 (reversely stranded).0 by default.
+#-O:allowMultiOverlap,reads will be allowed to more than one matched meta-feature/gene;
+#-a:annotation reference;
+#-o:output;
+```
 
 
 
