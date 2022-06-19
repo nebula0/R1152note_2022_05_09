@@ -1,6 +1,13 @@
 #課堂筆記  #linux 
 
 # 筆記
+
+### tee
+```bash
+command > >(tee -a stdout.log) 2> >(tee -a stderr.log >&2)
+```
+[ref](https://stackoverflow.com/questions/692000/how-do-i-write-standard-error-to-a-file-while-using-tee-with-a-pipe)
+不懂他在幹嘛 但能用
 ### rename
 ```bash
 rename <pattern> <replacement> <file-list>
