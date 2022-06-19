@@ -72,11 +72,14 @@ paste -d "\t"  name.tsv mapped_rate_column2.tsv unambiguous_rate_column2.tsv > m
 ```
 
 
+
+
+
 ---
 ERROR: no features were loaded in format GTF. The annotation format can be specified by the '-F' option, and the required feature type can be specified by the '-t' option..
 記錄
 
-# Annotation
+ Annotation
 
   -F <string>         Specify format of the provided annotation file. Acceptable
                       formats include 'GTF' (or compatible GFF format) and
@@ -87,6 +90,16 @@ ERROR: no features were loaded in format GTF. The annotation format can be speci
                       no space in between. 'exon' by default. Rows in the
                       annotation with a matched feature will be extracted and
                       used for read mapping.
+
+ls7046-5@h81 /home/hpc/ls7046-0/genome.fasta/Gastrodia
+$ ls
+GWHBDNU00000000.genome.fasta  GWHBDNU00000000.genome.fasta.fai  GWHBDNU00000000.gff
+
+	
+ls7046-5@h81 /home/hpc/ls7046-0/genome.fasta/Arabidopsis
+$ ls
+Araport11_GFF3_genes_transposons.May2022.gff.gz  TAIR10_Chr.all_cleaned.fasta
+Araport11_GTF_genes_transposons.May2022.gtf
 
 
 
