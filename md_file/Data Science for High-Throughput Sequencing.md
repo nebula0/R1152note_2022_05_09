@@ -1,4 +1,4 @@
-# [Data Science for High-Throughput Sequencing](http://data-science-sequencing.github.io/)
+# [Data Science for High-Throughput Sequencing 筆記](http://data-science-sequencing.github.io/)
 
 ## Lecture 1: Introduction
 ### coverage depth

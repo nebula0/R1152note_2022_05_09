@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md_file/可以用的script.md",
+            "file": "md_file/Data Science for High-Throughput Sequencing.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md_file/可以用的script.md",
+                "file": "md_file/Data Science for High-Throughput Sequencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md_file/可以用的script.md",
+                "file": "md_file/Data Science for High-Throughput Sequencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md_file/可以用的script.md"
+                "file": "md_file/Data Science for High-Throughput Sequencing.md"
               }
             }
           }
@@ -132,6 +132,7 @@
   },
   "active": "4b4ac13c19a94a1a",
   "lastOpenFiles": [
+    "md_file/Data Science for High-Throughput Sequencing.md",
     "md_file/可以用的script.md",
     "md_file/Linux 指令與相關的東西.md",
     "md_file/2022_05_28作業log記錄.md",
@@ -140,7 +141,6 @@
     "md_file/16_03_2022 作業 解釋指令.md",
     "md_file/07_06_2022作業修正.md",
     "md_file/5_21作業紀錄.md",
-    "md_file/fastQC doc.md",
-    "md_file/Data Science for High-Throughput Sequencing.md"
+    "md_file/fastQC doc.md"
   ]
 }
